@@ -1,2 +1,2 @@
-# projeto_agenda
- Projeto de agenda usando vetor 
+# Projeto Agenda
+ Projeto de agenda usando vetor para armazenar os dados.
